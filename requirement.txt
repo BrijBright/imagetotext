@@ -1,0 +1,8 @@
+cx-Freeze==6.8
+cx-Logging==3.0
+importlib-metadata==4.8.1
+Pillow==8.3.2
+pynput==1.7.3
+pytesseract==0.3.8
+six==1.16.0
+zipp==3.5.0
